@@ -22,7 +22,7 @@ If we talk about building model based on machine learning, the most-taking time 
 
 However, in this problem we need to calculate rain rate using power-low equation, or called as Baseline model by using
 
-$Z = 200R^1.6$ where $dBz = 10log_10(Z)$
+$Z = 200R^{1.6}$ where $dBz = 10log_{10}(Z)$
 
 After that we need to split the dataset into train and test data with portion of 70:30. It should be noted that the features only consist of the original parameters except rain rate. 
 
