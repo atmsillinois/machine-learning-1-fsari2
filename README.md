@@ -70,7 +70,7 @@ The best model to predict rain rate using the provided features based on $R^2$ a
 ### Good Luck and Happy Sharing :sunglasses: 
 
 ### Reference :page_facing_up: 
-- [Python Data Science Handbook](https://scikit-learn.org/stable/)
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [sklearn](https://scikit-learn.org/stable/)
 
 #### Copyright :mega: 
