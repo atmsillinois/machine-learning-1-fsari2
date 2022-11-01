@@ -61,7 +61,7 @@ It took my local computer 1h 51 mins to build a model with those required hyperp
 
 ### Result 
 
-![scatter](figures/scatter_plot.png)
+![plot](figures/scatter_plot.png)
 
 #### Conclusion
 
